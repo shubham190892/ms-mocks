@@ -1,0 +1,22 @@
+{
+  "name": "ms-mocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham190892/ms-mocks.git"
+  },
+  "keywords": [
+    "mock"
+  ],
+  "author": "super.shubham.7@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham190892/ms-mocks/issues"
+  },
+  "homepage": "https://github.com/shubham190892/ms-mocks#readme"
+}
