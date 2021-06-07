@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "bonita": "yarn prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/shubham190892/ms-mocks/issues"
   },
-  "homepage": "https://github.com/shubham190892/ms-mocks#readme"
+  "homepage": "https://github.com/shubham190892/ms-mocks#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "prettier": "2.2.1"
+  }
 }
